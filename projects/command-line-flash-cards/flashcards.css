@@ -1,0 +1,17 @@
+    body {
+      text-align: center;
+      padding-top: 20px;
+      font-family: "Lora";
+    }
+    #cards {
+      max-width: 40%;
+      margin: auto;
+      padding: 10px;
+      background-color: #eee;
+    }
+    #select {
+      padding-top: 20px;
+    }
+       footer {
+   padding-top: 20px;
+ }
