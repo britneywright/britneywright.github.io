@@ -1,3 +1,5 @@
 name: One Broke B
 markdown: redcarpet
 pygments: true
+description: A blog by Britney Wright
+url: http://onebrokeb.com
