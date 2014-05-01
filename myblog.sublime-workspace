@@ -1,0 +1,967 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"contact_phone"
+			],
+			[
+				"conta",
+				"contact_address"
+			],
+			[
+				"sub",
+				"subject"
+			],
+			[
+				"z",
+				"z"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"width",
+				"max-width"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"project",
+				"project_id"
+			],
+			[
+				"pro",
+				"project_id"
+			],
+			[
+				"price",
+				"price_increase"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"method",
+				"method_name"
+			],
+			[
+				"C",
+				"Chico"
+			],
+			[
+				"end",
+				"end"
+			],
+			[
+				"value",
+				"values"
+			],
+			[
+				"Tria",
+				"TriangleError"
+			],
+			[
+				"S",
+				"StandardError"
+			],
+			[
+				"Run",
+				"RuntimeError"
+			],
+			[
+				"ex",
+				"exception_handled"
+			],
+			[
+				"Ru",
+				"RuntimeError"
+			],
+			[
+				"R",
+				"RuntimeError"
+			],
+			[
+				"equ",
+				"equilateral"
+			],
+			[
+				"fa",
+				"false_value"
+			],
+			[
+				"true",
+				"true_value"
+			],
+			[
+				"uno",
+				"uno"
+			],
+			[
+				"N",
+				"NULL"
+			],
+			[
+				"lo",
+				"loan"
+			],
+			[
+				"loan",
+				"loan_debt"
+			],
+			[
+				"requ",
+				"require_relative"
+			],
+			[
+				"p",
+				"payment"
+			],
+			[
+				"Stud",
+				"StudentLoan"
+			],
+			[
+				"student",
+				"student_loans"
+			],
+			[
+				"trans",
+				"translate_words"
+			],
+			[
+				"translate",
+				"translate_combo"
+			],
+			[
+				"translate_",
+				"translate_punctuation"
+			],
+			[
+				"A",
+				"A-Za-z"
+			],
+			[
+				"have_",
+				"have_link"
+			],
+			[
+				"resour",
+				"Resource"
+			],
+			[
+				"Quick",
+				"Quicksand-Bold"
+			],
+			[
+				"cl",
+				"color"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"padi",
+				"padding-top"
+			],
+			[
+				"te",
+				"text-top"
+			],
+			[
+				"resource",
+				"resources_path"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"displ",
+				"display-posts-listing"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"st",
+				"list-style"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"recomm",
+				"recommendation_action"
+			],
+			[
+				"Price",
+				"price"
+			],
+			[
+				"resources",
+				"resources"
+			],
+			[
+				"resourc",
+				"resource_params"
+			],
+			[
+				"recommend",
+				"recommended_resources"
+			],
+			[
+				"reoc",
+				"recommendation_action"
+			],
+			[
+				"lik",
+				"liked_by"
+			],
+			[
+				"def",
+				"def	def … end"
+			],
+			[
+				"sign",
+				"signin_path"
+			],
+			[
+				"signin",
+				"signin_path"
+			],
+			[
+				"Factory",
+				"FactoryGirl"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"lang",
+				"language_ids"
+			],
+			[
+				"remember",
+				"remember_token"
+			],
+			[
+				"csv",
+				"csv_file_name"
+			],
+			[
+				"Command",
+				"CommandLineNotes"
+			],
+			[
+				"live",
+				"live_neighbor_count"
+			],
+			[
+				"live_neigb",
+				"live_neighbor_count"
+			],
+			[
+				"live_",
+				"live_neighbors"
+			],
+			[
+				"l",
+				"live_neighbors"
+			],
+			[
+				"live_neighb",
+				"live_neighbor_count"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"sk",
+				"skill_id"
+			],
+			[
+				"User",
+				"User"
+			],
+			[
+				"email",
+				"email"
+			],
+			[
+				"Contact",
+				"Contact"
+			],
+			[
+				"token",
+				"token"
+			],
+			[
+				"r",
+				"r	attr_reader .."
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"friends",
+				"friends"
+			],
+			[
+				"profile",
+				"profile_name"
+			],
+			[
+				"password",
+				"password_confirmation"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"baounr",
+				"background-color"
+			],
+			[
+				"pading",
+				"padding-bottom"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"array_p",
+				"array_product"
+			],
+			[
+				"foo",
+				"footer-left"
+			],
+			[
+				"Blue",
+				"bcompiler_write_included_filename"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"downcased",
+				"downcased_email"
+			],
+			[
+				"all",
+				"all	all? { |e| .. }"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/britneywright/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+			"settings":
+			{
+				"buffer_size": 105,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_posts/2014-03-10-math-is-a-b.md",
+			"settings":
+			{
+				"buffer_size": 2725,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "myblog.sublime-project",
+			"settings":
+			{
+				"buffer_size": 115,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"proje",
+				"Project: Save As"
+			],
+			[
+				"open",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Fetch: Package"
+			],
+			[
+				"fetch",
+				"Fetch: Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"snippet",
+				"Snippet: Function"
+			],
+			[
+				"snipp",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/britneywright/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/Default (OSX).sublime-keymap",
+		"/Users/britneywright/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/britneywright/Desktop/testsublime/user/index.html",
+		"/Users/britneywright/Desktop/testsublime/something.css",
+		"/Users/britneywright/Library/Application Support/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/Users/britneywright/Library/Application Support/Sublime Text 2/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+		"/Users/britneywright/Library/Application Support/Sublime Text 2/Packages/User/Autoprefixer.sublime-settings",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/spec/models/interview_spec.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/spec/features/application_pages_spec.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/app/controllers/applications_controller.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/app/views/devise/menu/_login_items.html.erb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/spec/features/user_pages_spec.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/spec/models/application_spec.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/spec/factories/application.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/spec/factories/interview.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/test/unit/application_test.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/app/models/application.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/test/integration/applications_test.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/test/fixtures/interviews.yml",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/test/factories/user.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/test/factories/application.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/config/routes.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/app/models/user.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/app/views/shared/_error_messages.html.erb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/app/views/static_pages/home.html.erb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/app/views/interviews/show.html.erb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/app/views/interviews/new.html.erb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/app/views/interviews/index.html.erb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/app/views/interviews/_list.html.erb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/app/views/interviews/_form.html.erb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/app/views/applications/index.html.erb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/app/views/applications/new.html.erb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/app/views/applications/show.html.erb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/app/views/applications/_form.html.erb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/app/views/applications/edit.html.erb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/app/models/job.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/app/models/interview.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/db/migrate/20140323203004_rename_jobs_to_applications.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/app/assets/stylesheets/custom.css.scss",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/app/views/jobs/show.html.erb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/app/views/jobs/index.html.erb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/app/controllers/interviews_controller.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/app/controllers/jobs_controller.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/vendor/assets/components/better-dateinput-polyfill/dist/better-dateinput-polyfill.js",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/vendor/assets/components/better-timeinput-polyfill/dist/better-timeinput-polyfill.js",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/vendor/assets/components/better-timeinput-polyfill/dist/better-timeinput-polyfill.css",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/app/assets/javascripts/application.js",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/app/assets/stylesheets/application.css",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/Gemfile",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/config/application.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/app/views/jobs/_form.html.erb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/app/helpers/calendar_helper.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/app/views/layouts/application.html.erb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobApp/app/assets/javascripts/jobs.js.coffee",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobApp/app/assets/javascripts/choosedate.js",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/config/initializers/date_format.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/app/views/devise/menu/_registration_items.html.erb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/app/views/layouts/_header.html.erb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/db/schema.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobApp/config/initializers/range_format.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/config/environment.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobApp/app/views/interviews/_calendar.html.erb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobApp/app/helpers/calendar_helper.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/config/initializers/range_formats.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/config/initializers/range_format.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/test/factories/job.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/spec/models/job_spec.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/spec/factories/job.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/spec/features/job_pages_spec.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/spec/factories/user.rb",
+		"/Users/britneywright/projects/myblog/_drafts/2014-02-25-hello-again-world.markdown",
+		"/Users/britneywright/projects/myblog/_posts/2014-02-25-welcome-to-jekyll.markdown",
+		"/Users/britneywright/projects/Javascript/flashcards/index.html",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/config/environments/production.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/app/controllers/static_pages_controller.rb",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/config/database.yml",
+		"/Users/britneywright/projects/Ruby/railsProjects/jobapp/Gemfile.lock",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/app/models/idea.rb",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/Gemfile",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/db/schema.rb",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/app/views/layouts/application.html.erb",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/app/controllers/ideas_controller.rb",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/app/views/layouts/_header.html.erb",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/app/controllers/projects_controller.rb",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/spec/features/static_pages_spec.rb",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/spec/features/project_pages_spec.rb",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/spec/features/idea_pages_spec.rb",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/app/views/ideas/index.html.erb",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/app/views/projects/index.html.erb",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/app/views/projects/new.html.erb",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/app/views/ideas/show.html.erb",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/app/views/ideas/edit.html.erb",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/app/views/projects/show.html.erb",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/app/views/ideas/_form.html.erb",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/app/views/ideas/new.html.erb",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/app/views/projects/_form.html.erb",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/app/views/static_pages/home.html.erb",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/spec/models/project_spec.rb",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/spec/models/idea_spec.rb",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/spec/spec_helper.rb",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/spec/requests/project_pages_spec.rb",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/spec/views/idea_views_spec.rb",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/spec/views/project_views_spec.rb",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/spec/views/project_pages_spec.rb",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/spec/routing/ideas_routing_spec.rb",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/app/models/project.rb",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/app/views/projects/edit.html.erb",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/spec/requests/idea_pages_spec.rb",
+		"/Users/britneywright/projects/Ruby/loans/test.rb",
+		"/Users/britneywright/projects/learning/config/routes.rb",
+		"/Users/britneywright/projects/learning/app/views/resources/show.html.erb",
+		"/Users/britneywright/projects/learning/app/controllers/likes_controller.rb",
+		"/Users/britneywright/projects/learning/app/controllers/rates_controller.rb",
+		"/Users/britneywright/projects/learning/app/controllers/relationships_controller.rb",
+		"/Users/britneywright/projects/learning/app/views/resources/index.html.erb",
+		"/Users/britneywright/projects/learning/app/controllers/users_controller.rb",
+		"/Users/britneywright/projects/learning/app/controllers/resources_controller.rb",
+		"/Users/britneywright/projects/idea-feedback/idea.rb",
+		"/Users/britneywright/projects/idea-feedback/app/models/idea.rb",
+		"/Users/britneywright/projects/idea-feedback/ideaproject/test/controllers/idea_controller_test.rb",
+		"/Users/britneywright/projects/learning/app/models/resource.rb",
+		"/Users/britneywright/projects/Ruby/rubymonk/colors.rb",
+		"/Users/britneywright/projects/Ruby/koans/about_message_passing.rb",
+		"/Users/britneywright/projects/Ruby/koans/about_class_methods.rb",
+		"/Users/britneywright/projects/Ruby/koans/about_proxy_object_project.rb",
+		"/Users/britneywright/projects/Ruby/koans/about_constants.rb",
+		"/Users/britneywright/projects/Ruby/koans/about_scope.rb",
+		"/Users/britneywright/projects/Ruby/koans/about_open_classes.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"text",
+			"job",
+			"\"/\"",
+			"getd",
+			"delta",
+			"currentdate",
+			"current",
+			"time",
+			"gmt",
+			"time",
+			"date",
+			"require 'active_support/core_ext/time/calculations'",
+			"beginning",
+			"form",
+			"error",
+			"definition :",
+			"}",
+			"definition",
+			"+",
+			",",
+			"tester",
+			"testers",
+			"red",
+			"green",
+			"blue",
+			"red",
+			"reveal i",
+			".reveal i",
+			"red",
+			"blue",
+			"red",
+			"highlight",
+			"current",
+			"highlight",
+			"current",
+			"reveal",
+			"current",
+			"tabs",
+			"                title: 'Something',",
+			"options",
+			".reveal i",
+			"width",
+			"img",
+			"@media",
+			"ul",
+			"nav",
+			"li",
+			"navbar li",
+			"h1",
+			"container",
+			"navbar-brand",
+			"font",
+			"row",
+			"carousel-caption",
+			"navbar-inverse",
+			"navbar",
+			"languagescontroller",
+			"body",
+			" \n",
+			"end",
+			"user",
+			"field",
+			"tokken",
+			"glyph",
+			"t",
+			"glyph",
+			"form",
+			"@font",
+			"@",
+			"languagec",
+			"language",
+			"alqime",
+			"radius",
+			"jQuery ->\n  $(‘#skills_users_ids’).chosen()",
+			"}\n",
+			"navbar",
+			"branding",
+			"417690",
+			"salt",
+			"heading",
+			"order",
+			"row",
+			"collapse",
+			"btn",
+			"footer",
+			"index",
+			"important",
+			"footer",
+			"scorecard",
+			"icon",
+			"project",
+			"350",
+			"work",
+			"whiny",
+			"salt",
+			"footer",
+			"widget",
+			"slide",
+			"fllex",
+			"nav",
+			"hover",
+			"testimon",
+			"slider",
+			"#ff",
+			"footer",
+			"flex",
+			"h3",
+			"spotlight",
+			"webfonts",
+			"web",
+			"footer"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"application",
+			"definition:",
+			"},",
+			", definition ",
+			"+ ",
+			"",
+			"+",
+			"css/webfonts"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/britneywright/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								101,
+								101
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_posts/2014-03-10-math-is-a-b.md",
+					"settings":
+					{
+						"buffer_size": 2725,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "myblog.sublime-project",
+					"settings":
+					{
+						"buffer_size": 115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36,
+								36
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 55.0
+	},
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"development",
+				"db/development.sqlite3"
+			],
+			[
+				"gem",
+				"Gemfile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true
+}
