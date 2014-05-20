@@ -2,7 +2,7 @@
 layout: post
 title: Down the rabbit hole
 ---
-This past week I finally identified one of my fatal learning flaws, getting sidetracked. Last Monday I decided I was going to learn how to use Action Mailer in Ruby on Rails. I've been weary about attempting to do anything with email because I thought it would be really difficult. But I'm helping a friend build a site for her new business and I've been missing email functionality in my own Rails projects, so I figured now was as good a time as any to learn.
+This past week I finally identified one of my fatal learning flaws, getting sidetracked. Last Monday I decided I was going to learn how to use [Action Mailer](http://guides.rubyonrails.org/action_mailer_basics.html) in Ruby on Rails. I've been weary about attempting to do anything with email because I thought it would be really difficult. But I'm helping a friend build a site for her new business and I've been missing email functionality in my own Rails projects, so I figured now was as good a time as any to learn.
 
 - Plan to learn Action Mailer
 - Decide I should probably write tests to start my friend's new site (go TDD!)
@@ -18,3 +18,19 @@ By the last realization it was Friday in the timeline and did you see Action Mai
 And surprise, surprise, it wasn't difficult at all. The Ruby on Rails documentation for Action Mailer is very clear. Then I found [Postmark](http://postmarkapp.com) through Heroku and followed the [instructions](https://devcenter.heroku.com/articles/postmark) to set up an account hook it into my app to send transactional emails. I did have one hiccup with the api key that I didn't figure out until Sunday morning, but when I filled out one of the forms and immediately received a transaction email I was so overjoyed.
 
 So now I'm going to try to make a concerted effort to take things one at a time. Learn one thing at a time. Make a small goal and finish it before moving to the next one. I've been doing a pretty good job of it since Saturday and hopefully by the end of the week I'll be able to report how much more productive and successful it's made me.
+
+**Getting Unstuck:**
+As for my hangup with Postmark. I followed the instructions but kept getting a "No Account or Server API tokens were supplied in the HTTP headers." After a good night's rest I was more attentive and realized the config/application.rb example in the Heroku instructions was slightly different from the example in GitHub.
+
+Heroku:
+
+[Didn't work](https://devcenter.heroku.com/articles/postmark#sending-emails-in-ruby-on-rails-3-x):
+config.action_mailer.postmark_settings = { :api_key => ENV['POSTMARK_API_KEY'] }
+
+GitHub:
+
+[Did work](https://github.com/wildbit/postmark-rails):
+config.action_mailer.postmark_settings = { :api_key => "your-api-key" }
+
+**Thing I'll remember from now on:**
+run 'heroku logs' in the command line to see my processes in  production the same way I do in development on my local server. Forgot about this which also contributed to the delay in debugging my api mistake.
