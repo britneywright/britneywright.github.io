@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Happiness Project
-categories: happiness project
+categories: happiness_project
 ---
 
 <img style="max-width: 400px;" src="/../assets/my_10_commandments.png"/>
