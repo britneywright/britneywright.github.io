@@ -11,15 +11,17 @@
 
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/custom.css">
+        <link href='http://fonts.googleapis.com/css?family=Lato:400,700|Lora:400,700|Poiret+One' rel='stylesheet' type='text/css'>
 
     </head>
     <body>
-
+        <div class="page-wrap">
         <div class="site">
+          <div class="topsquare"></div>
           <div class="header">
             <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/">home</a>
-            <a class="extra" href="/projects">projects</a>
+            <span>{{ site.description }}</span>
           </div>
 
           {{ content }}
@@ -32,16 +34,17 @@
             </div>
             <div class="contact">
               <p>
-                <a href="https://github.com/britneywright">github.com/britneywright</a><br />
+                <a href="http://www.britneywright.com">britneywright.com</a><br />
                  </p>
             </div>
             <div class="contact">
               <p>
-                <a href="https://twitter.com/britneywright">twitter.com/britneywright</a><br />
+                <a href="https://twitter.com/britneywright">@britneywright</a><br />
               </p>
             </div>
           </div>
         </div>
-
+      </div>
     </body>
+    <div class="bottomsquare"></div>
 </html>

@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+}
+html, body {
+  height: 100%;
+}
+
+.bottomsquare{
+  /* .push must be the same height as footer */
+  height: 14vw; 
+}
+
+.topsquare {
+  background-color: red;  
+  width: 14vw; 
+  height: 14vw;
+  position: fixed; 
+  top: 0; 
+  left: 0;
+  border-radius: 0 0 100% 0;
+}
+
+.bottomsquare {
+  background-color: orange;
+  width: 15vw;
+  float: right;
+  border-radius: 100% 0 0 0;
+}
+
+.page-wrap {
+margin: 0 20vw; 
+padding-top: 30px;
+text-align: justify;
+}
