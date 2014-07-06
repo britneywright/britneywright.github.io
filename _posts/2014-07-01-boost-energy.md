@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Happiness Project Month One - Boost Energy
-categories: happiness_project
+title: "Happiness Project Month One: Boost Energy"
+categories:
+- Happiness Project
 ---
 
 Happy Canada Day! Also the official start of Rails Girls Summer of Code! And last, but certainly not least, the start of my happiness project!
