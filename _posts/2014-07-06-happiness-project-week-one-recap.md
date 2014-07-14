@@ -17,7 +17,7 @@ Overall I'm off to a pretty good start in week one of my project.
 
 - **Clean or organize one thing before bed.** This has been the biggest boost for me. I'm to the point where I'm seeking things i can wash, toss, or organize. And not just before bed, but throughout the day. It feels good to improve my surroundings.
 - **Organize closets.** I probably won't get to this until the third week of the month since I won't be home much this week.
-- **Check fridge once a week.** Discovered and through out some carrots I bought weeks ago. And yesterday I realized the mushrooms I bought on Monday were already going bad, so I immediately tossed them.
+- **Check fridge once a week.** Discovered and threw out some carrots I bought weeks ago. And yesterday I realized the mushrooms I bought on Monday were already going bad, so I immediately tossed them.
 
 **Start the day off right**
 
