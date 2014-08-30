@@ -1,0 +1,16 @@
+---
+layout: post
+title: Unhappiness Project
+---
+
+I thought at the end of July my first month of the happiness project was mildly successful. It took a bit but by the end I was exercising regulary, my surroundings were organized and I wasn't procrastinating as much. On the downside I didn't necessarily feel happier and I felt like I made too many goals to keep track. My plan was to pare down my goals in August and focus on areas that would maybe make a more direct impact on my happiness.
+
+Well today is the last day of August and I failed miserably. Actually I didn't fail when you take into account the fact that I never set goals for the month. I got so caught up with life at the beginning of the month I didn't make the time to make a plan. And now I'm in a worse place than I was before month one. I haven't exercised in two weeks, my room is a mess, dishes in the sink. This morning I felt like I was on the verge of a complete breakdown.
+
+I've been feeling very stressed and overwhelmed by programming and work and my ever rising weight. So of course the way I cope with that is by eating more junk food and programming more instead of exercising. So I know it's my own fault that I'm not extracting myself from this failure loop.
+
+I used to think I was obsessed with my job, but really I'm just obsessed with work and constantly feeling like I'm not as successful as I should be. It donned on me earlier this week that my current job is the same as one of my previous jobs except I'm actually expected to code instead of just hacking on things and I'm paid slightly more. But majority of my job still feels like web support. And I'm finding myself excluded from initial project discusssions which, as a project manager, I'm finding very frustrating. I want to take all the the things and just say, "leave me alone and I'll take care of it." The problem is I'm already left alone. I'm completely alone without a ton of work and I'm going crazy feeling like I'm going nowhere while everyone else is learning, growing, finding success and being happy.
+
+I started going through the ebook Eloquent Javascript this week and as soon as there's a reference to math I hit insurmountable wall. I can't properly form thoughts, let alone methods. Then I get stressed, then I get anxiey and finally I feel like I'm going to have a nervous breakdown. It's completely irrational and once I take break and get some outside perspective I've been able to go back to it. But I don't feel like I'm getting anything out of it besides feeling terrible about myself. I'm sure it's a great resource for other people, but I think I need to move on from it to preserve my sanity.
+
+So today I'm going to take the first steps towards getting myself together and clearing my mind. I'm going to clean because once I get started I enjoy that. Then I'm going to get ingredients to bake banana bread, because I enjoy that too. And I'm thinking about going to the craft store because I haven't done any fun crafts in forever. I'm not going to do any programming or read anything programming related today. Hopefully the break will allow me to recharge and shift my priorities, at least temporarily.
