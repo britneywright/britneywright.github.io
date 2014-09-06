@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/custom.css">
+        <link type="text/css" href="/css/fluidbox.css" media="all" rel="stylesheet" />
+        <link href='http://fonts.googleapis.com/css?family=Lato:400,700|Lora:400,700|Poiret+One' rel='stylesheet' type='text/css'>
+    </head>
+    <body>
+        <div class="page-wrap">
+        <div class="site">
+          <div class="topsquare"></div>
+          <div class="header">
+            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+            <span>{{ site.description }}</span>
+          </div>
+
+          {{ content }}
+
+          <div class="footer">
+            <div class="contact">
+              <p>
+                britney@britneywright.com
+              </p>
+            </div>
+            <div class="contact">
+              <p>
+                <a href="http://www.britneywright.com">britneywright.com</a><br />
+                 </p>
+            </div>
+            <div class="contact">
+              <p>
+                <a href="https://twitter.com/britneywright">@britneywright</a><br />
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.fluidbox.min.js"></script>
+    <script>
+      $(function () {
+
+        // You can use any kind of selectors for jQuery Fluidbox
+        $('.gallery a').fluidbox();
+
+        // Load an image dynamically
+        $('a[data-func="loadImg"]').on('click', function(e) {
+          e.preventDefault();
+
+          // Construct new content
+          $newContent = $('<p>This paragraph and its accompanying image are dynamically-added.</p><a href="http://i.imgur.com/aNhtkPh.jpg" title="" data-fluidbox><img src="http://i.imgur.com/aNhtkPh.jpg" alt="" title="" /></a>');
+
+          // Append new content to immediate sibling, <article>
+          // Then search for the anchor we want fluidbox to work on, apply method .fluidobx()
+          $(this)
+            .next('article')
+            .append($newContent)
+            .find('a[data-fluidbox]')
+              .fluidbox();
+
+          // Prevent repeated appending of content, just because it's gonna be silly
+          $(this).off('click').on('click', function(e) {
+            e.preventDefault();
+          });
+        });
+
+        // Smooth scrolling plugin by Chris Coiyer - not needed for Fluidbox functionality
+        // Source: http://css-tricks.com/snippets/jquery/smooth-scrolling/
+        $('a[href*=#]:not([href=#])').click(function() {
+          if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+            var target = $(this.hash);
+            target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+            if (target.length) {
+              $('html,body').animate({
+                scrollTop: target.offset().top
+              }, 1000);
+              return false;
+            }
+          }
+        });
+      });
+    </script>
+    </body>
+    <div class="bottomsquare"></div>
+</html>
